@@ -1,5 +1,5 @@
 # Avian Biodiversity within HOLC Grades 
-__Assessment of e-bird reports within historic redlining districts__
+Assessment of bird reports within historic redlining districts
 
 ## Background
 In the 1930s, the Home Owners' Loan Corporation (HOLC) rated neighborhoods based on their perceived safety for real estate investment. This ranking system was used to block access to loans for home ownership. This practice, more commonly known as "redlining" continues to have consequences on community health and wealth. This includes environmental health, as redlined neighborhoods are less likely to have greenery, and are hotter than other neighborhoods. This analysis examines discrepancies in biodiversity observations, which tend to be lower in redlined communities. This becomes a pressing issue as citizen science data continues to be used for additional reports, which can affect restoration project planning. This analysis will use data from the United States Environmental Protection Agency in addition to avian biodiversity data to examine the distribution of citizen science contributions.
